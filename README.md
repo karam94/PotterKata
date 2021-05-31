@@ -1,6 +1,6 @@
 # Potter Kata
 ## Overview
-I like to do TDD Kata's from time to time in my free time. The Potter Kata is a deceivingly challenging one & is often simplified to suffice at returning £51.60 for the final scenario because it quickly becomes more of a complex problem solving/optimisation algorithm exercise rather than a Kata designed to sharpen ones ability to TDD.
+I like to do TDD Kata's occasionally in my free time. The Potter Kata is a deceivingly challenging one & is often simplified to suffice at returning £51.60 for the final scenario because it quickly becomes more of a complex problem solving/optimisation algorithm exercise rather than a Kata designed to sharpen ones ability to TDD.
 
 Regardless, here is a *(far from perfect)* solution that I have come up with in order to both refresh myself with C# alongside generate discussion with colleagues at the Coding Dojo I run at work. It further caters to the below problem description by also being generic enough to cater for bespoke Discount Service's for new book collection types with ease. These can be seen in the implementation done for Lord of the Rings books & O'Reilly books. This solution could still be improved through some trivial tweaks such as representing the basket as a collection of Book objects rather than merely an array of integers, renaming the project to something more generic, etc.
 
